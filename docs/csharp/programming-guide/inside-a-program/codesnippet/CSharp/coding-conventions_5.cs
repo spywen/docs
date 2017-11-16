@@ -4,4 +4,4 @@
             {
                 manyPhrases.Append(phrase);
             }
-            //Console.WriteLine("tra" + manyPhrases);
+            // Console.WriteLine("tra" + manyPhrases);
